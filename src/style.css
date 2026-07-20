@@ -168,3 +168,16 @@ body {
 .card-footer a:hover {
   background: #333;
 }
+
+footer {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  text-align: center;
+  color: #6b7280;
+  font-size: 1.25rem;
+}
+
+footer a {
+  color: #2ecc71;
+  text-decoration: none;
+}
