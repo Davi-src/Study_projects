@@ -1,0 +1,11 @@
+.depoimento {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.depoimento img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0px;
+}
